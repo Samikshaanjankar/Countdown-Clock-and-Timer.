@@ -1,0 +1,3 @@
+# Contdown Clock And Timer
+ 
+This is the code of countdown clock and timer. Here we use some libraries like tkinter library for graphics, time library to display current time, and messagebox library to display message. 
